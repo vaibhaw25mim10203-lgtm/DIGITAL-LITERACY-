@@ -1,0 +1,31 @@
+Subject: Application for Summer Internship Opportunity – [Your Name] – B.Tech [Branch], [Year]
+
+Dear [Mr./Ms. Last Name / Hiring Team],
+
+I am writing to express my keen interest in a summer internship opportunity at [Company
+Name]. I am currently pursuing a Bachelor of Technology in [Branch – e.g., Computer
+Science & Engineering] at [Institution Name], and I am in my [1st/2nd] year of study.
+
+I came across [Company Name]'s work in [mention a relevant area – e.g., software
+development / data analytics / cloud infrastructure] and was genuinely impressed by
+[mention something specific – e.g., your recent projects / your commitment to innovation].
+I believe an internship at your organisation would provide me with invaluable industry
+exposure and the opportunity to apply the skills I am building academically.
+
+At this stage of my education, I am particularly interested in learning [mention 1–2
+skills or areas]. I am a quick learner, highly motivated, and eager to contribute
+meaningfully to your team, even as a beginner.
+
+I would be grateful for the opportunity to discuss how I might contribute during a
+summer internship. I am available from [Start Date] to [End Date]. Please find my
+GitHub profile and resume attached for your reference.
+
+Thank you for your time and consideration.
+
+Yours sincerely,
+[Your Full Name]
+[Branch & Year – e.g., B.Tech CSE, 1st Year]
+[Institution Name]
+[College Email Address]
+[LinkedIn Profile URL – if set up]
+[GitHub Profile URL]
